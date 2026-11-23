@@ -3,6 +3,34 @@
   "tree": {
     "$className": "DataModel",
 
+    "Workspace": {
+      "$className": "Workspace",
+      "World": {
+        "$className": "Folder",
+        "Map": {
+          "$className": "Folder",
+          "SpawnIsland": {
+            "$className": "Folder"
+          },
+          "AncientRuins": {
+            "$className": "Folder"
+          },
+          "CrystalForest": {
+            "$className": "Folder"
+          },
+          "HiddenCave": {
+            "$className": "Folder"
+          }
+        },
+        "ResourceNodes": {
+          "$className": "Folder"
+        },
+        "SpawnPoints": {
+          "$className": "Folder"
+        }
+      }
+    },
+
     "ReplicatedStorage": {
       "$className": "ReplicatedStorage",
 
