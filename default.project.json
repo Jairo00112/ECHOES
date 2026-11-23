@@ -50,6 +50,10 @@
         "$path": "src/ServerScriptService/Bootstrap.server.lua"
       },
 
+      "MapBuilder": {
+        "$path": "src/ServerScriptService/MapBuilder.server.lua"
+      },
+
       "Services": {
         "$path": "src/ServerScriptService/Services"
       }
