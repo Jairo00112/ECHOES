@@ -38,3 +38,11 @@ luac.out
 *.i*86
 *.x86_64
 *.hex
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.log
+.vscode/
+node_modules/
+.DS_Store
